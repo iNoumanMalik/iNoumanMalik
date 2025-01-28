@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @iNoumanMalik
-- 👀 I’m interested in helping you out in your Coding Projects.
-- 🌱 I’m currently learning Android Development.
-- 💞️ I’m looking to collaborate on languages C, C++ & Java.
-- 📫 My email: inoumanmalik@outlook.com
+# About Me
 
+- **👤 Name:** Nouman
+- **💻 Role:** Software Engineering student
+- **🔧 Focus:** Front-end development (React) and back-end (Node.js, Express)
+- **🎯 Goal:** Build scalable applications and strengthen full-stack development skills
+- **🛠️ Technologies:** React, Node.js, Express, MongoDB, SQL, Git/GitHub
+- **🚀 Passion:** Solving problems, learning new technologies, building impactful projects
+
+Feel free to explore my projects and reach out for collaborations! 🤝
