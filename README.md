@@ -26,7 +26,7 @@ Express.js · Nest.js · REST APIs
 
 ## 📫 Let's Connect
 
-- [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nouman-malik-me/))  
+- LinkedIn: https://www.linkedin.com/in/nouman-malik-me/
 - Email: inoumanmalik@outlook.com 
 
 ---
