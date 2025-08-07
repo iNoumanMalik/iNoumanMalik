@@ -11,7 +11,6 @@ I'm a Frontend Developer passionate about building dynamic and user-friendly web
 - **FitGrow** – AI gym lead-gen landing page  
 - **Abtahi Counselling** – Mental health website with Calendly + Zoom booking  
 
-Explore my repositories to learn more about these projects.
 
 ---
 
