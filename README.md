@@ -18,48 +18,6 @@ I’m a **Software Engineer** with strong hands-on experience across **web devel
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-* **React.js** (JavaScript / TypeScript)
-* **Next.js** (App Router & SSR concepts)
-* **Tailwind CSS**, CSS Modules
-* **Framer Motion** (animations)
-* **Three.js** (basic 3D & interactive experiences)
-
-### Mobile
-
-* **Flutter** (cross-platform app development)
-
-### Backend
-
-* **Node.js**, **Express.js**
-* **NestJS** (modular architecture, scalable APIs)
-* RESTful API design
-* Authentication & Authorization (JWT, cookies, roles)
-
-### Databases
-
-* **PostgreSQL / MySQL**
-* **MongoDB**
-* Database schema design & optimization
-
-### AI & Automation
-
-* AI-powered web integrations (chat, assistants, smart forms)
-* **n8n** workflow automation
-* API-based AI systems & tool orchestration
-
-### Dev Tools & Workflow
-
-* **Git & GitHub** (PR-based workflows)
-* **Docker** (basic understanding)
-* **Postman**, **DBeaver**, **XAMPP**
-* Environment setup & configuration
-
----
-
 ## 🧩 Software Engineering Skills
 
 * System design & architecture
@@ -81,7 +39,7 @@ I’m a **Software Engineer** with strong hands-on experience across **web devel
 ---
 
 ## 📫 Let’s Connect
-
+* Website: https://nouman-dev-ten.vercel.app/
 * LinkedIn: https://www.linkedin.com/in/nouman-malik-me/
 * Email:inoumanmalik@outlook.com
 
