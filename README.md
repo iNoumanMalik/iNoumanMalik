@@ -4,8 +4,6 @@
 
 I’m a **Software Engineer** with strong hands-on experience across **web development, mobile apps, backend systems, AI-powered applications, and workflow automation**. I enjoy building scalable, clean, and production-ready software that solves real-world problems.
 
-My work spans **frontend, backend, system design, and automation**, allowing me to understand products end-to-end — from user experience to infrastructure and business logic.
-
 ---
 
 ## 🧠 What I Do
@@ -71,41 +69,6 @@ My work spans **frontend, backend, system design, and automation**, allowing me 
 * Feature planning & incremental delivery
 * Understanding large existing codebases
 
----
-
-## 🧪 Testing & Quality
-
-* Manual testing
-* Writing basic test cases
-* Integration testing concepts
-* Software quality & reliability awareness
-
----
-
-## 📦 What I’ve Built / Worked On
-
-* Full-stack **management systems** (healthcare, hostel, admin tools)
-* **AI-powered dashboards & widgets**
-* Booking & form-based applications
-* Internal tools for operations & reporting
-* SaaS-style MVPs
-* Automation workflows replacing manual processes
-
----
-
-## 🎓 Learning & Growth Mindset
-
-I strongly believe in **continuous learning**. I regularly explore:
-
-* Better system design patterns
-* Scalable backend architectures
-* AI product integration
-* Automation-first engineering
-* Clean UI/UX practices
-
-I enjoy breaking down complex concepts and sharing knowledge with others.
-
----
 
 ## 🤝 Open To
 
