@@ -46,4 +46,4 @@ I’m a **Software Engineer** with strong hands-on experience across **web devel
 ![trophy](https://github-profile-trophy.vercel.app/?username=iNoumanMalik&theme=tokyonight)
 
 
-![Nouman's GitHub stats](https://github-readme-stats.vercel.app/api?username=iNoumanMalik&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iNoumanMalik&layout=compact&theme=tokyonight)
