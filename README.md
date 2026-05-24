@@ -10,11 +10,9 @@ I’m a **Software Engineer** with strong hands-on experience across **web devel
 
 ## 🧠 What I Do
 
-* Build **modern web applications** with clean UI and scalable architecture
+* Build **modern applications** with clean UI and scalable architecture
 * Develop **backend systems & APIs** with proper authentication and business logic
-* Create **full-stack solutions** from idea to deployment
 * Integrate **AI features** into real products (chat, automation, smart workflows)
-* Design **internal tools & admin dashboards** for teams
 * Automate workflows using **n8n** to reduce manual effort
 * Refactor, optimize, and scale existing codebases
 
@@ -23,11 +21,8 @@ I’m a **Software Engineer** with strong hands-on experience across **web devel
 ## 🧩 Software Engineering Skills
 
 * System design & architecture
-* Clean code & maintainable structure
 * Refactoring & performance optimization
-* Debugging complex issues
 * Feature planning & incremental delivery
-* Understanding large existing codebases
 
 
 
@@ -37,12 +32,10 @@ I’m a **Software Engineer** with strong hands-on experience across **web devel
 * Freelance & contract work
 * Startup & SaaS collaborations
 * AI & automation-based projects
-* Technical mentoring & consulting
 
 ---
 
 ## 📫 Let’s Connect
-* Website: https://nouman-dev-ten.vercel.app/
 * LinkedIn: https://www.linkedin.com/in/nouman-malik-me/
 * Email:inoumanmalik@outlook.com
 
