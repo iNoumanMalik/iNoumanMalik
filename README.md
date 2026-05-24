@@ -1,3 +1,4 @@
+![trophy](https://github-profile-trophy.vercel.app/?username=iNoumanMalik&theme=tokyonight)
 # 👋 Hi, I'm Nouman
 
 ## 🚀 Software Engineer | Full-Stack | AI & Automation
@@ -51,4 +52,4 @@ I’m a **Software Engineer** with strong hands-on experience across **web devel
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iNoumanMalik&theme=tokyonight)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=iNoumanMalik&theme=tokyonight)
+
