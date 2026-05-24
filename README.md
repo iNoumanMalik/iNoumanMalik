@@ -1,11 +1,11 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=iNoumanMalik&theme=tokyonight)
+[![Nouman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iNoumanMalik&theme=tokyo-night)](https://github.com/iNoumanMalik)
 # 👋 Hi, I'm Nouman
 
 ## 🚀 Software Engineer | Full-Stack | AI & Automation
 
 I’m a **Software Engineer** with strong hands-on experience across **web development, mobile apps, backend systems, AI-powered applications, and workflow automation**. I enjoy building scalable, clean, and production-ready software that solves real-world problems.
 
-
+![GitHub Streak](https://streak-stats.demolab.com?user=iNoumanMalik&theme=tokyonight)
 ---
 
 ## 🧠 What I Do
@@ -29,7 +29,7 @@ I’m a **Software Engineer** with strong hands-on experience across **web devel
 * Feature planning & incremental delivery
 * Understanding large existing codebases
 
-![trophy](https://github-profile-trophy.vercel.app/?username=iNoumanMalik&theme=tokyonight)
+
 
 ## 🤝 Open To
 
@@ -50,8 +50,7 @@ I’m a **Software Engineer** with strong hands-on experience across **web devel
 
 > *“Good software is not just about code — it’s about clarity, scalability, and real-world impact.”*
 
-[![Nouman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iNoumanMalik&theme=tokyo-night)](https://github.com/iNoumanMalik)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=iNoumanMalik&theme=tokyonight)
 
 
 
