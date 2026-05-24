@@ -46,3 +46,5 @@ I’m a **Software Engineer** with strong hands-on experience across **web devel
 ---
 
 > *“Good software is not just about code — it’s about clarity, scalability, and real-world impact.”*
+
+[![Nouman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iNoumanMalik&theme=tokyo-night)](https://github.com/iNoumanMalik)
