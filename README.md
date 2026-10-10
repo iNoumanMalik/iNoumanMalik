@@ -1,4 +1,3 @@
-[![Nouman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iNoumanMalik&theme=tokyo-night)](https://github.com/iNoumanMalik)
 # 👋 Hi, I'm Nouman
 
 ## 🚀 Software Engineer | Full-Stack | AI & Automation
