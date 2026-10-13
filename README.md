@@ -35,12 +35,13 @@ I’m a **Software Engineer** with strong hands-on experience across **web devel
 ---
 
 ## 📫 Let’s Connect
-* LinkedIn: https://www.linkedin.com/in/nouman-malik-me/
-* Email:inoumanmalik@outlook.com
 
+* Email:inoumanmalik@outlook.com
+* LinkedIn: https://www.linkedin.com/in/nouman-me/
+* Portfolio: https://nouman-dev-ten.vercel.app/
+* GitHub: https://github.com/iNoumanMalik
 ---
 
 > *“Good software is not just about code — it’s about clarity, scalability, and real-world impact.”*
 
-![trophy](https://github-profile-trophy.vercel.app/?username=iNoumanMalik&theme=tokyonight)
 
